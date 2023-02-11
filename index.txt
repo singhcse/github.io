@@ -2,31 +2,28 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Shubham Singh
+Shubham Singh
+Software Engineer III
 
 Show Contacts
 
 Email
-richard@example.com
+singhcsnft@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9783529938
 
 Birthday
-June 23, 1982
+Oct 01, 1996
 
 Location
-Sacramento, California, USA
+U block , Dlf phase-3
 
 # navbar
 
 About
 Resume
-Portfolio
-Blog
-Contact
 
 # about
 
